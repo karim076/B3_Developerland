@@ -1,0 +1,26 @@
+Vraag:wat wil ik
+Antwoord: Kleine dingen(herrinering) "Planboord" takenlijst asignee's bewerkbaar.
+
+Vraag:wat voor pagina's
+Antwoord: Inlog pagina, 
+
+Vraag:kleuren
+Antwoord: professioneel, logo.
+
+Vraag:administrator
+Antwoord: niet noodzakelijk.
+
+Vraag: hoe ziet u uw website eruit
+Antwoord: ...
+
+Vraag:role
+Antwoord:
+
+Vraag: hoe wilt u dat het form eruit zien
+Antwoord:titel, besch, afdeling, status, deadline, user database,Catogorie,
+
+Vraag: Deadline
+Antwoord: agile = 3 sprints.
+
+Vraag:contact/service
+Antwoord: niet nodezakelijk
