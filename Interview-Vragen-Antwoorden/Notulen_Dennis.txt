@@ -1,0 +1,44 @@
+Wat wil ik:
+- Duidelijk planboard m bij te houden wie wat gaat en doen, wie verantwoordelijk is en om dingen bij te houden.
+- Bij te kunnen houden wie welke taken.
+
+Welke paginas wilt u hebben:
+- Inlog
+- Welke afdeleing welke taken (Mag ook filter zijn)
+
+Filter:
+- Zoeken op Done, To-Do etc etc
+
+Kleuren:
+- Maakt niet uit
+- Proffesioneel
+- Kleuren van logo eventueel
+
+Admin Section:
+- Lijkt handig niet noodzakelijk
+
+Prioriteit niveau:
+- Deadlines
+
+Font:
+- Passen bij het park
+
+form structere:
+- Titel
+- Beschrijving
+- Afdeleing
+- Status
+    > Done
+    > Not Done
+- Deadline
+- Account info
+    > Toewijzen aan persoon
+
+Categorien:
+- 6 Kleuren
+
+View:
+- Door meerdere kunnen zien
+
+Overige dingen:
+- CRUD
